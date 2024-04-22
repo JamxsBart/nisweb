@@ -1,0 +1,21 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img, form, input, textarea, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    
+  }
+  
+article {
+background-color: rgb(255, 255, 255);
+padding-top: 5%;
+padding-bottom: 5%;
+text-align: center;
+}
