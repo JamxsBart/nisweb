@@ -35,6 +35,9 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img, form, input, textarea, button 
     font-variant:small-caps;
   }
 
+  .navbar-item:hover {
+    color: #5f5f5f;
+  }
   
   .navbar-right {
     display: flex;
@@ -217,5 +220,6 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img, form, input, textarea, button 
     background-color: rgb(190, 190, 190);
     
   }
+
 
 
